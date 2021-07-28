@@ -7,8 +7,8 @@ Features
 - You can use /location command which will send your location in global chat
 
 Includes Used
-a_samp - thanks to samp team
-zcmd   - thanks to Zex
-B-Colors - thanks to Bo$$
+- a_samp - thanks to samp team
+- zcmd   - thanks to Zex
+- B-Colors - thanks to Bo$$
 Officaly uplaoded on 
 - https://ultra-h.com/portal
