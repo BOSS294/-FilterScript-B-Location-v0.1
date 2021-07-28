@@ -6,10 +6,9 @@ Features
 - You can click other player names and get their locations
 - You can use /location command which will send your location in global chat
 
-Includes used
-a_samp -- Thanks to samp team
-Zcmd   -- Thanks to Zex
-B-Colors -- Thanks to Bo$$ 
-
+Includes Used
+a_samp - thanks to samp team
+zcmd   - thanks to Zex
+B-Colors - thanks to Bo$$
 Officaly uplaoded on 
 - https://ultra-h.com/portal
